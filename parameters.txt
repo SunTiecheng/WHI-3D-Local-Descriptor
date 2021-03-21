@@ -1,0 +1,6 @@
+source#data/souseg.ply
+target#data/tarseg.ply
+leaf#25.0
+ThresholdRANSAC#1.8
+DimBasic#2
+SearchRadius#50
